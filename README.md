@@ -13,3 +13,6 @@ Reference:
 - playlist to understand efficient VQE: https://www.youtube.com/playlist?list=PLGjhJJjulo3QhIVajFsq5ONZLDPCGH1xz
 - [Hardware-efficient Variational Quantum Eigensolver for Small Molecules and Quantum Magnets](https://www.nature.com/articles/nature23879) [(arxiv version)](https://arxiv.org/abs/1704.05018)
 
+experience with this hackathon:
+    proof I done everything myself, https://github.com/poig/Womanium_2022_other_challenge/tree/main/Digital-analog%20VQE
+    I did try to finished three hackathon challenge myself, but only have clear solution, but don't have code. or report.
